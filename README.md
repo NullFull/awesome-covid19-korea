@@ -1,4 +1,4 @@
-# awesome-nCoV-Korea
+# Awesome Novel Coronavirus **Korea**
 
 ## 본 레포지토리의 목적
 
