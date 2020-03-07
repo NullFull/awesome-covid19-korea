@@ -29,8 +29,10 @@
 | [MBC 신종 코로나 상황판](https://imnews.imbc.com/newszoomin/groupnews/groupnews_9/index.html) | 한국어 | 운영 중  | 국내 감염자 수를 일자 별 표로 메인에 보여주며, 확진자의 감염경로를 노드 형태로 제공한다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/mbc-corona) | MBC, 멋쟁이사자처럼 외                                       |
 | [코로나 지도](http://coronajido.kr/)                         | 한국어 | 운영 중  | 확진자 이동경로를 카카오맵에 표시하여 메인에 보여준다. 확진자 별로 필터링하여 볼 수 있다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/coronajido.kr) | [김준홍, 지주연](mailto:wagoowagoo.official@gmail.com)              |
 | [신종 코로나 바이러스 맵](http://livecorona.co.kr/)          | 한국어 | 운영 중  | 확진자 수 증가추이, 중국 관광객 입도현황 등을 대쉬보드 형태로 보여준다. KBS 제공 관계망, 제주도 지역 선별진료소 데이터를 보여준다. | [LIVECoD](https://www.notion.so/5a68695448fc4724b8e1e070e919508d) |
-| [iampil](https://iampil.com/corona)                          | 한국어 | 운영 중 | 위치기반 검색 가능한 진료소 검색기능의 추가, 확진자 및 실시간 현황판을 구글 지도 기반으로 제공함. | [최승필님](https://www.facebook.com/fortune2k)               |
+| [iampil](https://iampil.com/corona)                          | 한국어 | 운영 중 | 위치기반 검색 가능한 진료소 검색기능의 추가, 확진자 및 실시간 현황판을 구글 지도 기반으로 제공함. [사진 링크](/site_photos/iampil) | [최승필님](https://www.facebook.com/fortune2k)               |
+| [코로나 19 체크업](https://checkup.jnheo.com) | 한국어 | 운영중 | 중대본 대응지침을 바탕으로 의심환자의 증상을 바탕으로 질병 중증도를 자가 판단할 수 있음. [사진 링크](/site_photos/corona-checkup) | [허준녕님](https://www.facebook.com/jnheo) |
 | [코로나웹다모아](https://www.coronawebdamowa.com/)           | 한국어 | 운영 중   | 코로나바이러스 정보제공 사이트를 취합하여 보여줌.            | [최영재님 외](https://www.facebook.com/profile.php?id=100003768742764) |
+| [COVID-19 World Map](https://corona.arrangy.com/ko/) | 한국어 | 운영중 | 전 세계 코로나 확진자의 동선을 Arrangy 지도에 pinning하여 보여줌 | - |
 | [新型コロナウイルス特設サイト](https://fij.info/coronavirus-feature) | 일본어 | 운영 중  | 인터넷에 떠도는 코로나 바이러스 관련 정보를 팩트체킹하여 메인에 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/fij-info) | [FIJ Japan](https://fij.info/en)                             |
 | [Coronavirus 2019-nCoV Global Case](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | 영어   | 운영 중  | 확진/완치/사망자 수를 지역별로 일자별 추이 및 발생현황을 한 페이지에 시각화해 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/johnshopkins-csse) | Johns Hopkins CSSE                                           |
 | [Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/) | 영어   | 운영 중  | JHU, Weixin 등 다양한 사이트의 데이터를 취합하여 도표 등으로 시각화하여 대쉬보드로 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/coronavirus-tracker) | [John Coene](https://github.com/JohnCoene/coronavirus)       |
@@ -39,3 +41,32 @@
 | [WHO Dashboard](http://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667) | 영어   | 운영 중  | WHO가 운영하는 사이트로, 일자별 리포트 횟수 및 누적 환자수, 지역별 감염자 수 현황을 확인할 수 있다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/WHO-dashboard) | World Health Organization                                    |
 | [Corona in HK](https://chp-dashboard.geodata.gov.hk/nia/en.html) | 영어   | 운영 중  | 홍콩 지역에 한정하여 확진자수/격리자수/완치자 수와 그 현황을 한 페이지에 대시보드 형태로 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/blob/master/site_photos/Hong%20Kong%20Gov/main-dashboard.png) | Hong Kong SAR Administration                                 |
 | [WuFlu.live](https://wuflu.live/)                            | 영어   | 운영 중  | 중국 본토지역에 한정하여 확진자수/시기별 보고건수를 보여주고, 글로벌 단위로 일별 감염 건수를 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/wuflu.live) | -                                                            |
+| [HealthMap Novel Coronavirus](https://www.healthmap.org/covid-19/) | 영어 | 운영중 | 전 세계 확진자 발생 건수(Number of cases)를 히트맵으로 시각화함 [사진 링크](/site_photos/novel-coronavirus) | Oxford/Harvard Medical School |
+| [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/) | 일본어 | 운영중 | 도쿄시의 코로나 바이러스 감염자 추이/확진 동선/일간 발생건수 를 대시보드로 보여줌 [사진 링크](/site_photos/tokyo-dashboard) [GitHub Repo](https://github.com/tokyo-metropolitan-gov/covid19) | 도쿄시 대중교통 관리부 |
+| [Coronavirus Disease (COVID-19) Situation Report in Japan](https://toyokeizai.net/sp/visual/tko/covid19/en.html) | 일본어 | 운영중 | 일본 보건부 데이터를 바탕으로 지역별 발병현황, 검사 현황, 발병자 연령별 막대 그래프를 보여줌 [사진 링크](/site_photos/covid-japan) | [Tokyo Keizai](https://toyokeizai.net/) |
+
+## 기타 관련 사이트 링크
+
+* 코로나19 공공데이터 공동대응: 행안부 공식 용도
+  * 코로나19 공공데이터 가이드라인 : https://docs.google.com/document/d/1EM4HF8Ylg4N62grwR5Dy_IhLVjQNrBlcyl_9B__qZqw/edit?usp=sharing
+  * 코로나19 공공데이터 셋 포맷 : https://docs.google.com/spreadsheets/d/1NyFJC0hoAskirEqCy21xaM6upu5sSWINvghmrgcyJ-w/edit?usp=sharing
+  * 코로나 공공데이터 공동대응 텔레그램
+    https://t.me/joinchat/G4sQkhwSS7wKABxjmBzCOA
+
+* 김지후님이 작업하신 코로나 바이러스 데이터셋 (출처: 질병관리본부)
+  * https://github.com/jihoo-kim/Coronavirus-Dataset
+
+* NewsGuard의 국가별 코로나바이러스 팩트체킹 사이트 모음
+  * https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/
+* 각 언론사의 인터렉티브 기사
+  * SCMP: 중국 우한지역의 첫 발병 상황과 중국 본토에서의 전파 상황을 삽화로 설명 https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher
+  * Washington Post: 다른 유행 질병과 비교하여 코로나 바이러스의 통시적 전파과정을 설명 https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/
+  * Reuters: 한국의 31번 확진자 발생 이후 타 확진자 접촉 현황을 상세하게 보도 https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html
+  * The New York Times: 전 세계 지역별 발병 현황을 보도 https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html
+  * Mediagotosa: 코로나19 확산 일별 현황 및 누적확진자 일별추이를 꺾은선 그래프로 정리함 https://www.mediagotosa.com/korona19-hwagsan-ilbyeol-hyeonhwang-jeongri/
+    * 현재(3/7) 2월 29일 이후로 업데이트가 되지 않고 있음
+* KF94 마스크 재고를 크롤링하여 텔레그램으로 알려주는 프로젝트들 모음
+  * https://github.com/jhlym/kf94
+  * https://github.com/tomriddle7/needyourmask / http://needyourmask.coo.kr/
+  * https://t.me/mask_notify
+  * 쇼핑몰에서 마스크 재고 없음을 모니터링하는 사이트: https://mask.shopping
