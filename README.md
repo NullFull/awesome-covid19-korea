@@ -45,6 +45,21 @@
 | [都内の最新感染動向](https://stopcovid19.metro.tokyo.lg.jp/) | 일본어 | 운영중 | 도쿄시의 코로나 바이러스 감염자 추이/확진 동선/일간 발생건수 를 대시보드로 보여줌 [사진 링크](/site_photos/tokyo-dashboard) [GitHub Repo](https://github.com/tokyo-metropolitan-gov/covid19) | 도쿄시 대중교통 관리부 |
 | [Coronavirus Disease (COVID-19) Situation Report in Japan](https://toyokeizai.net/sp/visual/tko/covid19/en.html) | 일본어 | 운영중 | 일본 보건부 데이터를 바탕으로 지역별 발병현황, 검사 현황, 발병자 연령별 막대 그래프를 보여줌 [사진 링크](/site_photos/covid-japan) | [Tokyo Keizai](https://toyokeizai.net/) |
 
+## 마스크 정보 취합 프로젝트 및 관련 링크
+
+* 1차 출처: [코로나19 관련 공공데이터 핸드북](https://hackmd.io/ngvgVMnYRRuTno71Uu6cMg?sync=&type=)
+
+| 서비스 명    | 타입 | 링크                                                    | 개발자        | 연락처                                                       |
+| :----------- | :--- | :------------------------------------------------------ | :------------ | :----------------------------------------------------------- |
+| 웨어마스크   | WEB  | [https://where-mask.com](https://where-mask.com/)       | 진태양        | [keriel@jupiterflow.com](mailto:keriel@jupiterflow.com)      |
+| 웨어마스크   | APP  | https://bit.ly/389nARR                                  | 정찬효        | [android-dev@kakao.com](mailto:android-dev@kakao.com)        |
+| 웨어마스크   | WEB  | [https://wheremask.com](https://wheremask.com/)         | 염태민        | [onnu0802@naver.com](mailto:onnu0802@naver.com)              |
+| 마이마스크   | WEB  | [https://mymask.info](https://mymask.info/)             | 김종현        | [jongkoo25@gmail.com](mailto:jongkoo25@gmail.com)            |
+| 마스크요     | WEB  | [https://maskyo.kr](https://maskyo.kr/)                 | 오원석        | [codalida@gmail.com](mailto:codalida@gmail.com)              |
+| 마스크찾아줌 | WEB  | [https://findmask.kr](https://findmask.kr/)             | 강창완 문정민 | [dnlstmffj@gmail.com](mailto:dnlstmffj@gmail.com) [qnrqn8400@gmail.com](mailto:qnrqn8400@gmail.com) |
+| 마스크19     | APP  | [http://mask19.gomsang.com](http://mask19.gomsang.com/) | 김경록        | [gyeongrok.kim@gomsang.com](mailto:gyeongrok.kim@gomsang.com) |
+| 마스크맵     | WEB  | [https://maskmap.site](https://maskmap.site/)           | 이동훈        | [ehdgns1766@naver.com](mailto:ehdgns1766@naver.com)          |
+
 ## 기타 관련 사이트 링크
 
 * 코로나19 공공데이터 공동대응: 행안부 공식 용도
