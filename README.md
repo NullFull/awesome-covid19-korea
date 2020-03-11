@@ -33,6 +33,7 @@
 | [코로나 19 체크업](https://checkup.jnheo.com) | 한국어 | 운영중 | 중대본 대응지침을 바탕으로 의심환자의 증상을 바탕으로 질병 중증도를 자가 판단할 수 있음. [사진 링크](/site_photos/corona-checkup) | [허준녕님](https://www.facebook.com/jnheo) |
 | [코로나웹다모아](https://www.coronawebdamowa.com/)           | 한국어 | 운영 중   | 코로나바이러스 정보제공 사이트를 취합하여 보여줌.            | [최영재님 외](https://www.facebook.com/profile.php?id=100003768742764) |
 | [COVID-19 World Map](https://corona.arrangy.com/ko/) | 한국어 | 운영중 | 전 세계 코로나 확진자의 동선을 Arrangy 지도에 pinning하여 보여줌 | - |
+| [부산 코로나와](http://busancoronawa.kro.kr) | 한국어 | 운영중 | 부산의 코로나 확진자의 동선을 부산 공식 홈페이지에서 크롤링하여 지도에 표시하여 나타냄. | [최은석님](https://github.com/Choi-Eunseok) |
 | [新型コロナウイルス特設サイト](https://fij.info/coronavirus-feature) | 일본어 | 운영 중  | 인터넷에 떠도는 코로나 바이러스 관련 정보를 팩트체킹하여 메인에 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/fij-info) | [FIJ Japan](https://fij.info/en)                             |
 | [Coronavirus 2019-nCoV Global Case](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | 영어   | 운영 중  | 확진/완치/사망자 수를 지역별로 일자별 추이 및 발생현황을 한 페이지에 시각화해 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/johnshopkins-csse) | Johns Hopkins CSSE                                           |
 | [Coronavirus Tracker](https://shiny.john-coene.com/coronavirus/) | 영어   | 운영 중  | JHU, Weixin 등 다양한 사이트의 데이터를 취합하여 도표 등으로 시각화하여 대쉬보드로 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/coronavirus-tracker) | [John Coene](https://github.com/JohnCoene/coronavirus)       |
@@ -47,18 +48,41 @@
 
 ## 마스크 정보 취합 프로젝트 및 관련 링크
 
-* 1차 출처: [코로나19 관련 공공데이터 핸드북](https://hackmd.io/ngvgVMnYRRuTno71Uu6cMg?sync=&type=)
+* 출처: [코로나19 관련 공공데이터 핸드북](https://hackmd.io/ngvgVMnYRRuTno71Uu6cMg?sync=&type=)
 
-| 서비스 명    | 타입 | 링크                                                    | 개발자        | 연락처                                                       |
-| :----------- | :--- | :------------------------------------------------------ | :------------ | :----------------------------------------------------------- |
-| 웨어마스크   | WEB  | [https://where-mask.com](https://where-mask.com/)       | 진태양        | [keriel@jupiterflow.com](mailto:keriel@jupiterflow.com)      |
-| 웨어마스크   | APP  | https://bit.ly/389nARR                                  | 정찬효        | [android-dev@kakao.com](mailto:android-dev@kakao.com)        |
-| 웨어마스크   | WEB  | [https://wheremask.com](https://wheremask.com/)         | 염태민        | [onnu0802@naver.com](mailto:onnu0802@naver.com)              |
-| 마이마스크   | WEB  | [https://mymask.info](https://mymask.info/)             | 김종현        | [jongkoo25@gmail.com](mailto:jongkoo25@gmail.com)            |
-| 마스크요     | WEB  | [https://maskyo.kr](https://maskyo.kr/)                 | 오원석        | [codalida@gmail.com](mailto:codalida@gmail.com)              |
-| 마스크찾아줌 | WEB  | [https://findmask.kr](https://findmask.kr/)             | 강창완 문정민 | [dnlstmffj@gmail.com](mailto:dnlstmffj@gmail.com) [qnrqn8400@gmail.com](mailto:qnrqn8400@gmail.com) |
-| 마스크19     | APP  | [http://mask19.gomsang.com](http://mask19.gomsang.com/) | 김경록        | [gyeongrok.kim@gomsang.com](mailto:gyeongrok.kim@gomsang.com) |
-| 마스크맵     | WEB  | [https://maskmap.site](https://maskmap.site/)           | 이동훈        | [ehdgns1766@naver.com](mailto:ehdgns1766@naver.com)          |
+| 서비스 명                | 링크                                                         | 개발자                                   | 연락처                                                       |
+| :----------------------- | :----------------------------------------------------------- | :--------------------------------------- | :----------------------------------------------------------- |
+| 웨어마스크               | [https://where-mask.com](https://where-mask.com/)            | 진태양                                   | [keriel@jupiterflow.com](mailto:keriel@jupiterflow.com)      |
+| 웨어마스크               | [https://wheremask.com](https://wheremask.com/)              | 염태민                                   | [onnu0802@naver.com](mailto:onnu0802@naver.com)              |
+| 마이마스크               | [https://mymask.info](https://mymask.info/)                  | 김종현                                   | [jongkoo25@gmail.com](mailto:jongkoo25@gmail.com)            |
+| 마스크요                 | [https://maskyo.kr](https://maskyo.kr/)                      | 오원석                                   | [codalida@gmail.com](mailto:codalida@gmail.com)              |
+| 마스크찾아줌             | [https://findmask.kr](https://findmask.kr/)                  | 강창완 문정민                            | [dnlstmffj@gmail.com](mailto:dnlstmffj@gmail.com) [qnrqn8400@gmail.com](mailto:qnrqn8400@gmail.com) |
+| Mask Map for South Korea | https://kiang.github.io/covid19-kr-masks/                    | [kiang](https://kiang.github.io/) (대만) | [README](https://github.com/kiang/covid19-kr-masks/blob/master/README.md) |
+| 코로나인포               | [https://coronas.info](https://coronas.info/)                | 강희원 정도현                            | [admin@coronas.info](mailto:admin@coronas.info)              |
+| 마스크사자               | https://masksaja.toast.paas-ta.com/                          | 정현승                                   | [ahribori@gmail.com](mailto:ahribori@gmail.com)              |
+| 코로나원                 | https://coronaone.com/mask                                   | 추강호 추제호                            | [satirev@me.com](mailto:satirev@me.com) [spitzkul@gmail.com](mailto:spitzkul@gmail.com) |
+| 마스크요있다!            | https://yoitda.com/                                          | 정영남                                   | [jyn0204@nate.com](mailto:jyn0204@nate.com)                  |
+| 내 주변 마스크 찾기      | https://publicmask.com/                                      | 조코딩                                   | [dk.changeworld@gmail.com](mailto:dk.changeworld@gmail.com)  |
+| 마스크고고               | [https://maskgogo.site](https://maskgogo.site/)              | 서지우 진민준                            | [sswwoo7675@cu.ac.kr](mailto:sswwoo7675@cu.ac.kr) [5415035@stu.kmu.ac.kr](mailto:5415035@stu.kmu.ac.kr) |
+| 바로마스크               | [https://baromask.kr](https://baromask.kr/)                  | 류성훈                                   | [ryush00@wku.ac.kr](mailto:ryush00@wku.ac.kr)                |
+| 마스크 시민지도          | [https://www.coronamask.today](https://www.coronamask.today/) | 함께하는 커맵팀                          | [segilife7@gmail.com](mailto:segilife7@gmail.com)            |
+| 콜록콜록 마스크          | [https://mask.coughcough.kr](https://mask.coughcough.kr/)    | 테크스페이스(이상근)                     | [founder@techspace.co.kr](mailto:founder@techspace.co.kr)    |
+| 코맵                     | https://comap.info/                                          | 박준석, 박성국                           | [junseokpark@kaist.ac.kr](mailto:junseokpark@kaist.ac.kr) [programmerpsk@naver.com](mailto:programmerpsk@naver.com) |
+| 마스크 알리미            | https://cov.dudy.kr/                                         | 강동윤                                   | [kdy1@dudy.kr](mailto:kdy1@dudy.kr)                          |
+| MASK                     | https://iampil.com/mask                                      | 최승필                                   | [pil@tripgrida.com](mailto:pil@tripgrida.com)                |
+| 내주변마스크             | https://nearbymask.com/                                      | 서희수, 추진주                           | [nearbymask@gmail.com](mailto:nearbymask@gmail.com)          |
+
+| iOS/Android 어플 명                      | 링크                                                         | 개발자 | 연락처                                                       |
+| :--------------------------------------- | :----------------------------------------------------------- | :----- | :----------------------------------------------------------- |
+| 웨어마스크                               | https://bit.ly/389nARR                                       | 정찬효 | [android-dev@kakao.com](mailto:android-dev@kakao.com)        |
+| 마스크19                                 | [http://mask19.gomsang.com](http://mask19.gomsang.com/)      | 김경록 | [gyeongrok.kim@gomsang.com](mailto:gyeongrok.kim@gomsang.com) |
+| 코로나인포                               | http://bit.ly/38yxPzF                                        | 강희원 | [admin@coronas.info](mailto:admin@coronas.info)              |
+| 마스크찾아줌                             | https://play.google.com/store/apps/details?id=com.smcolon.findmask | 강창완 | [dnlstmffj@gmai.com](mailto:dnlstmffj@gmai.com)              |
+| [마스크5부제 대응] 공적마스크 검색이     | https://play.google.com/store/apps/details?id=flutter.dreamwalker.com.fluttermasktest | 박제창 | [aristojeff@gmail.com](mailto:aristojeff@gmail.com)          |
+| 신코바                                   | https://play.google.com/store/apps/details?id=com.safe.from2019nCoV | 산솦   | [winty1230@daum.net](mailto:winty1230@daum.net)              |
+| 내 주변 마스크 찾기                      | https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000746814 | 조코딩 | [dk.changeworld@gmail.com](mailto:dk.changeworld@gmail.com)  |
+| 세이브 마스크                            | https://play.google.com/store/apps/details?id=com.haeyum.savemask | 유광무 | [vnycall74@naver.com](mailto:vnycall74@naver.com)            |
+| 마스크 실시간 - 마스크 맵, 마스크 알리미 | https://onestore.co.kr/userpoc/apps/view?pid=0000746784      | 안중원 | [anysweeti](mailto:anysweetimes@knou.ac.kr)                  |
 
 ## 기타 관련 사이트 링크
 
