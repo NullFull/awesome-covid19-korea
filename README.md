@@ -90,9 +90,11 @@
 * 코로나19 공공데이터 공동대응: 행안부 공식 용도
   * 코로나19 공공데이터 가이드라인 : https://docs.google.com/document/d/1EM4HF8Ylg4N62grwR5Dy_IhLVjQNrBlcyl_9B__qZqw/edit?usp=sharing
   * 코로나19 공공데이터 셋 포맷 : https://docs.google.com/spreadsheets/d/1NyFJC0hoAskirEqCy21xaM6upu5sSWINvghmrgcyJ-w/edit?usp=sharing
-  * 코로나 공공데이터 공동대응 텔레그램
-    https://t.me/joinchat/G4sQkhwSS7wKABxjmBzCOA
-
+  * 코로나 공공데이터 공동대응 슬랙채널
+    * https://join.slack.com/t/code-for-korea/shared_invite/zt-chuc189v-VYCoNgXLcC5xDAZXCLIpTQ
+  * 코로나 공공데이터 공동대응 텔레그램은 위의 슬랙 채널로 이사했습니다.
+    * https://t.me/joinchat/G4sQkhwSS7wKABxjmBzCOA
+  
 * 김지후님이 작업하신 코로나 바이러스 데이터셋 (출처: 질병관리본부)
   * https://github.com/jihoo-kim/Coronavirus-Dataset
 
