@@ -33,6 +33,7 @@
 | [코로나 19 체크업](https://checkup.jnheo.com) | 한국어 | 운영중 | 중대본 대응지침을 바탕으로 의심환자의 증상을 바탕으로 질병 중증도를 자가 판단할 수 있음. [사진 링크](/site_photos/corona-checkup) | [허준녕님](https://www.facebook.com/jnheo) |
 | [코로나웹다모아](https://www.coronawebdamowa.com/)           | 한국어 | 운영 중   | 코로나바이러스 정보제공 사이트를 취합하여 보여줌.            | [최영재님 외](https://www.facebook.com/profile.php?id=100003768742764) |
 | [COVID-19 World Map](https://corona.arrangy.com/ko/) | 한국어 | 운영중 | 전 세계 코로나 확진자의 동선을 Arrangy 지도에 pinning하여 보여줌 | - |
+| [Tell me Corona for Telegram](https://t.me/tellmecorona/) | 한국어 | 운영중 | 코로나 확진자 발생시 즉시 텔레그램 알림. 확진자 수,지역별 확진자 데이터 제공 | [lark](https://github.com/larkbless) |
 | [부산 코로나와](http://busancoronawa.kro.kr) | 한국어 | 운영중 | 부산의 코로나 확진자의 동선을 부산 공식 홈페이지에서 크롤링하여 지도에 표시하여 나타냄. | [최은석님](https://github.com/Choi-Eunseok) |
 | [新型コロナウイルス特設サイト](https://fij.info/coronavirus-feature) | 일본어 | 운영 중  | 인터넷에 떠도는 코로나 바이러스 관련 정보를 팩트체킹하여 메인에 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/fij-info) | [FIJ Japan](https://fij.info/en)                             |
 | [Coronavirus 2019-nCoV Global Case](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) | 영어   | 운영 중  | 확진/완치/사망자 수를 지역별로 일자별 추이 및 발생현황을 한 페이지에 시각화해 보여준다. [사진 링크](https://github.com/NullFull/awesome-nCoV-korea/tree/master/site_photos/johnshopkins-csse) | Johns Hopkins CSSE                                           |
