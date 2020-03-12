@@ -72,6 +72,7 @@
 | 마스크 알리미            | https://cov.dudy.kr/                                         | 강동윤                                   | [kdy1@dudy.kr](mailto:kdy1@dudy.kr)                          |
 | MASK                     | https://iampil.com/mask                                      | 최승필                                   | [pil@tripgrida.com](mailto:pil@tripgrida.com)                |
 | 내주변마스크             | https://nearbymask.com/                                      | 서희수, 추진주                           | [nearbymask@gmail.com](mailto:nearbymask@gmail.com)          |
+| Corona Kor Band             | https://corona.kor.band                                      | KORBAND                           | [korband78@gmail.com](mailto:korband78@gmail.com)          |
 
 | iOS/Android 어플 명                      | 링크                                                         | 개발자 | 연락처                                                       |
 | :--------------------------------------- | :----------------------------------------------------------- | :----- | :----------------------------------------------------------- |
